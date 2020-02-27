@@ -6,7 +6,7 @@ Este Mapa foi criado no QGIS, versão 3.4., por Janaína Gerdulino, usando dados
 
 # Alterações
 Caso queira fazer alterações nas camadas usando um Sistema de Informações Geográgicas (SIG) siga as instruções:
-- Baixe a pasta "Mapa_Geologico_Bacia_Tucano_Jatoba.zip" através do link no google drive https://drive.google.com/drive/folders/1TCvxn5FR1GQgPihrCxRs_5TP24SDcay4?usp=sharing
+- Dentro da Pasta "Tucano Basin" baixe a pasta "Mapa_Geologico_Bacia_Tucano_Jatoba.zip" através [deste link no google drive](https://drive.google.com/drive/folders/1TCvxn5FR1GQgPihrCxRs_5TP24SDcay4?usp=sharing)
 - Extraia a pasta compactada e a salve em "Documentos" (evite renomea-lá).
 - Para abrir o mapa no QGIS clique em "Bacia Completa".
 - Se quer abrir em outro SIG ou em caso do passo anterior não funcionar: Importe todos os arquivos da pasta para a Área de Trabalho do SIG em questão.
@@ -17,3 +17,4 @@ O mapa geológico da Bacia do Tucano Jatobá é constituído pelos seguintes arq
 - 8 arquivos shapfile (em poligonos): Bacia Tucano Jatoba; São Sebastião; Banzae; Cicero Dantas; Santana; Exu; Depositos Aluviais; Barreiras.// Além da própria bacia, são respectivamente as formações geológicas por ordem da mais antiga para a mais jovem.
 - 2 arquivos shapfile (em linhas): falhas e falhas_trac // Foram separadas pela facilidade em desenha-las, pois ambas se tratam de dobras e falhas entre as formações.
 - 1 arquivo shapfile (em linha) opcional: A hidrologia da bacia está na pasta, mas não está no projeto "Bacia Completa" caso deseje adiciona-la ao mapa importe o arquivo.
+- 1 arquivo em png do mapa geológico em alta resolução
