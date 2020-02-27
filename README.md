@@ -6,7 +6,7 @@ Este Mapa foi criado no QGIS, versão 3.4., por Janaína Gerdulino, usando dados
 
 ## Linguagens disponíveis
 
-Estas instuções de uso estão disponíveis nas seguintes linguagens:
+Estas instruções de uso estão disponíveis nas seguintes linguagens:
 
 - [Português](README-pt_BR.md)
 
