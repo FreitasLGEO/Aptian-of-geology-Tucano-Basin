@@ -1,4 +1,4 @@
-# Mapa Geológico da Bacia do Tucano Jatobá.
+# Mapa Geológico Recôncavo Tucano Jatobá.
 
 ![](bacia_completa.jpg)
 
