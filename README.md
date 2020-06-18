@@ -25,7 +25,7 @@ Caso queira fazer alterações nas camadas usando um Sistema de Informações Ge
 O mapa geológico da Bacia do Tucano Jatobá é constituído pelos seguintes arquivos:
 
 - 5 arquivos em raster: Relevo e 4 Sombras (45°;135°;225°;315°) // servem para dar ideia de prefundidade e observar as mudanças de altitude.
-- 8 arquivos shapfile (em poligonos): Bacia Tucano Jatoba; São Sebastião; Banzae; Cicero Dantas; Santana; Exu; Depositos Aluviais; Barreiras.// Além da própria bacia, são respectivamente as formações geológicas por ordem da mais antiga para a mais jovem.
-- 2 arquivos shapfile (em linhas): falhas e falhas_trac // Foram separadas pela facilidade em desenha-las, pois ambas se tratam de dobras e falhas entre as formações.
-- 1 arquivo shapfile (em linha) opcional: A hidrologia da bacia está na pasta, mas não está no projeto "Bacia Completa" caso deseje adiciona-la ao mapa importe o arquivo.
+- 8 arquivos shapefile (em poligonos): Bacia Tucano Jatoba; São Sebastião; Banzae; Cicero Dantas; Santana; Exu; Depositos Aluviais; Barreiras.// Além da própria bacia, são respectivamente as formações geológicas por ordem da mais antiga para a mais jovem.
+- 2 arquivos shapefile (em linhas): falhas e falhas_trac // Foram separadas pela facilidade em desenha-las, pois ambas se tratam de dobras e falhas entre as formações.
+- 1 arquivo shapefile (em linha) opcional: A hidrologia da bacia está na pasta, mas não está no projeto "Bacia Completa" caso deseje adiciona-la ao mapa importe o arquivo.
 - 1 arquivo em png do mapa geológico em alta resolução
