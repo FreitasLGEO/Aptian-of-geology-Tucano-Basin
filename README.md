@@ -1,6 +1,6 @@
 # Mapa Geológico Recôncavo Tucano Jatobá.
 
-![](bacia_completa.jpg) 
+![](bacia_completa.jpg)
 
 Este Mapa foi criado no QGIS, versão 3.4., por Janaína Gerdulino, usando dados de Bernardo Tavares de Freitas disponíveis em: 
 
